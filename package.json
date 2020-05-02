@@ -1,0 +1,33 @@
+{
+  "name": "webdriverio_sauce_test",
+  "version": "1.0.0",
+  "description": "End-to-End-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroespinozaGL/webdriverio_sauce_test.git"
+  },
+  "author": "Alvaro Espinoza Mena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaroespinozaGL/webdriverio_sauce_test/issues"
+  },
+  "homepage": "https://github.com/alvaroespinozaGL/webdriverio_sauce_test#readme",
+  "devDependencies": {
+    "@wdio/local-runner": "^6.1.7",
+    "@wdio/mocha-framework": "^6.1.6",
+    "@wdio/selenium-standalone-service": "^6.0.16",
+    "@wdio/spec-reporter": "^6.1.5",
+    "@wdio/sync": "^6.1.7",
+    "chai": "^4.2.0",
+    "chai-webdriverio": "^1.0.0",
+    "local-runner": "^0.1.1-alpha",
+    "webdriverio": "^6.1.7"
+  },
+  "dependencies": {
+    "@wdio/cli": "^6.1.7"
+  }
+}
