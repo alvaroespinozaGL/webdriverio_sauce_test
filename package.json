@@ -18,7 +18,7 @@
   "homepage": "https://github.com/alvaroespinozaGL/webdriverio_sauce_test#readme",
   "devDependencies": {
     "@wdio/local-runner": "^6.1.7",
-    "@wdio/mocha-framework": "^6.1.6",
+    "@wdio/mocha-framework": "^6.11.0",
     "@wdio/selenium-standalone-service": "^6.0.16",
     "@wdio/spec-reporter": "^6.1.5",
     "@wdio/sync": "^6.1.7",
